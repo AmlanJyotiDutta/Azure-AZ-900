@@ -1,0 +1,88 @@
+1. Why is cloud agility important for businesses?
+Ans:To enable the ability to rapidly develop, test and launch software applications that drive business growth.
+Explanation: Cloud agility is tied to the rapid provisioning of computer resources. Cloud environments can usually provide new compute instances or storage in minutes, 
+a far cry from the very common weeks (or months, in some organizations) the same provisioning process can take in typical IT shops.
+
+
+2. What is a benefit of a hybrid cloud approach?
+Ans: It enables companies to use a mix of private and public cloud components.
+Explanation: A hybrid cloud model is the best of private and public cloud that can be used to avoid disruptions and outages, 
+adhere to regulation and governance, span solutions across both public and private cloud, and alleviate CapEx investments.
+
+3.What is consumption-based pricing on Azure?
+Ans: Consumption-based pricing is when you are charged for only what you use (Pay-As-You-Go rate).
+Explanation: Consumption-based pricing is indeed when you are charged for only what you use (Pay-As-You-Go rate). 
+Consumption-based pricing is not limited to free accounts and the services are not necessarily consumed all the time.
+
+4. Select all the true statements per Microsoft's definitions of cloud types.
+Ans: a) A hybrid cloud combines a public cloud (such as Azure) with on-premises infrastructure (private cloud).
+     b) In Private Clouds, services and infrastructure are always maintained on a private network and the hardware and software are dedicated solely to your organization.
+     c) Private Clouds can be hosted at your datacenter or hosted by a third-party service. Private Clouds offer advantages of flexibility, control, and scalability.
+     
+Explanation: Microsoft defines hybrid cloud as combining a public cloud (such as Azure) with on-premises infrastructure (private cloud).
+
+A private cloud consists of cloud computing resources used exclusively by one business or organization. 
+The private cloud can be physically located at your organization’s on-site datacenter, or it can be hosted by a third-party service provider.
+But in a private cloud, the services and infrastructure are always maintained on a private network and the hardware and software are dedicated solely to your organization. What is a private cloud?
+
+Microsoft defines Private Clouds as being able to be hosted at your datacenter or hosted by a third-party service. 
+Microsoft considers Private Clouds as offering more flexibility, control, and scalability.
+
+
+5. What is the difference between OPEX and CAPEX?
+Ans: OPEX is an ongoing cost for running a business. CAPEX is the cost of acquiring and maintaining assets.
+Explanation: Knowing the difference between OPEX and CAPEX is critical to get the best value out of Azure for your company. 
+Capital Expenditures (CAPEX) generally result in the acquisition and maintenance of assets, such as server hardware. 
+Operating Expenditures (OPEX) are the ongoing costs of running a business, such as paying for cloud services on a recurring basis. 
+By moving costs to OPEX, businesses can plan for ongoing costs rather than large investments.
+
+
+6. What are the two types of scaling on Azure?
+Ans: Scaling up/down, and scaling out.
+Explanation: Scaling up/down is making a resource, such as a VM, larger or smaller. 
+This is also known as "Scaling vertically." Scaling out is adding more resources of the same type, known as "Scaling horizontally."
+
+
+7. Which cloud ability does elasticity describe?
+Ans: The ability to quickly expand or decrease computer processing, memory and storage resources.
+Explanation: Elasticity is a core benefit of cloud computing and lets even small businesses take advantage of the cloud.
+
+
+
+8. Elasticity is a core benefit of cloud computing and lets even small businesses take advantage of the cloud.
+Ans: If one resource on Azure dies unexpectedly, another resource will almost instantly take over the workload.
+Explanation: While Azure has more resources than most of our own companies, it's resources are not infinite; they just have enough to keep ahead of demand.
+High availability is one of the core benefits of using cloud computing. It ensures that backup resources are ready to take over any workload.
+
+
+
+9. What is "serverless" computing?
+Ans: It enables developers to build applications faster by eliminating the need for them to manage infrastructure.
+Explanation: In a serverless environment, you only have control over the code you're executing. Platform as a service (PaaS) is 
+a complete development and deployment environment in the cloud,
+with resources that enable you to deliver everything from simple cloud-based apps to sophisticated, cloud-enabled enterprise applications.
+
+Serverless computing solutions provide a simple way to create manageable and scalable solutions at low costs. 
+There is always a server somewhere to run your application, but you don't control it. Serverless is a kind of extreme PaaS.
+
+
+
+10. What does Infrastructure-as-a-Service describe?
+Ans: A type of cloud computing service that offers essential compute, storage and networking resources on demand, on a pay-as-you-go basis.
+Explanation: Infrastructure as a service (IaaS) is a type of cloud computing service that offers essential compute, storage and networking resources on demand, 
+on a pay-as-you-go basis. IaaS lets you bypass the cost and complexity of buying and managing physical servers and data center infrastructure. 
+Each resource is offered as a separate service component, and you only pay for a particular resource for as long as you need it. Reference: What is IaaS?.
+
+
+
+11. What's the best definition for Scalability on Azure?
+Ans: Scalability is the ability of a system to handle increased load. Services covered by Azure Autoscale can scale automatically to match demand to accommodate workload.
+Explanation: Scalability is a core benefit of cloud computing, and allows any application to add resources almost instantly as demand increases. 
+Scalability is not working across regions, but rather within the same application.
+
+
+12. What does fault tolerance describe for cloud computing?
+Ans: Ensure services and applications remain available in the event of a failure.
+Explanation: Fault tolerance means that a failure can occur on Azure services and applications, but it will not affect its availability.
+
+
